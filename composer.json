@@ -1,0 +1,12 @@
+{
+    "name": "someblackmagic/env-helper",
+    "description": "",
+    "type": "library",
+    "license": "GNU",
+    "minimum-stability": "stable",
+    "autoload":  {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
